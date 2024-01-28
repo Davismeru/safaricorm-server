@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "password",
+    "database": "safaricorm",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "avnadmin",
+    "password": "AVNS_Bi4AxrFlVafNRjquDE2",
+    "database": "defaultdb",
+    "host": "safaricorm-safaricorm.a.aivencloud.com",
+    "dialect": "mysql"
+  }
+}
