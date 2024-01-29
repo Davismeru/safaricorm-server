@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "u7qsujaqxmqcagnz",
-    "password": "L1SL2jwOdKPxGtZu9ojd",
-    "database": "bndmkgxhaiubfciyckyc",
-    "host": "bndmkgxhaiubfciyckyc-mysql.services.clever-cloud.com",
+    "username": "avnadmin",
+    "password": "AVNS_Bi4AxrFlVafNRjquDE2",
+    "database": "defaultdb",
+    "host": "safaricorm-safaricorm.a.aivencloud.com",
     "dialect": "mysql"
   }
 }
